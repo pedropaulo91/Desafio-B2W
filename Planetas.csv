@@ -1,0 +1,61 @@
+_id,nome,clima,terreno,aparicoes
+5f18fd365f36077ba5229d00,Tatooine,arid,desert,5
+5f18fd365f36077ba5229d01,Alderaan,temperate,"grasslands, mountains",2
+5f18fd365f36077ba5229d02,Yavin IV,"temperate, tropical","jungle, rainforests",1
+5f18fd365f36077ba5229d03,Hoth,frozen,"tundra, ice caves, mountain ranges",1
+5f18fd365f36077ba5229d04,Dagobah,murky,"swamp, jungles",3
+5f18fd365f36077ba5229d05,Bespin,temperate,gas giant,1
+5f18fd365f36077ba5229d06,Endor,temperate,"forests, mountains, lakes",1
+5f18fd365f36077ba5229d07,Naboo,temperate,"grassy hills, swamps, forests, mountains",4
+5f18fd365f36077ba5229d08,Coruscant,temperate,"cityscape, mountains",4
+5f18fd365f36077ba5229d09,Kamino,temperate,ocean,1
+5f18fd365f36077ba5229d0a,Geonosis,"temperate, arid","rock, desert, mountain, barren",1
+5f18fd365f36077ba5229d0b,Utapau,"temperate, arid, windy","scrublands, savanna, canyons, sinkholes",1
+5f18fd365f36077ba5229d0c,Mustafar,hot,"volcanoes, lava rivers, mountains, caves",1
+5f18fd365f36077ba5229d0d,Kashyyyk,tropical,"jungle, forests, lakes, rivers",1
+5f18fd365f36077ba5229d0e,Polis Massa,artificial temperate ,airless asteroid,1
+5f18fd365f36077ba5229d0f,Mygeeto,frigid,"glaciers, mountains, ice canyons",1
+5f18fd365f36077ba5229d10,Felucia,"hot, humid",fungus forests,1
+5f18fd365f36077ba5229d11,Cato Neimoidia,"temperate, moist","mountains, fields, forests, rock arches",1
+5f18fd365f36077ba5229d12,Saleucami,hot,"caves, desert, mountains, volcanoes",1
+5f18fd365f36077ba5229d13,Stewjon,temperate,grass,0
+5f18fd365f36077ba5229d14,Eriadu,polluted,cityscape,0
+5f18fd365f36077ba5229d15,Corellia,temperate,"plains, urban, hills, forests",0
+5f18fd365f36077ba5229d16,Rodia,hot,"jungles, oceans, urban, swamps",0
+5f18fd365f36077ba5229d17,Nal Hutta,temperate,"urban, oceans, swamps, bogs",0
+5f18fd365f36077ba5229d18,Dantooine,temperate,"oceans, savannas, mountains, grasslands",0
+5f18fd365f36077ba5229d19,Bestine IV,temperate,"rocky islands, oceans",0
+5f18fd365f36077ba5229d1a,Ord Mantell,temperate,"plains, seas, mesas",1
+5f18fd365f36077ba5229d1c,Trandosha,arid,"mountains, seas, grasslands, deserts",0
+5f18fd365f36077ba5229d1d,Socorro,arid,"deserts, mountains",0
+5f18fd365f36077ba5229d1e,Mon Cala,temperate,"oceans, reefs, islands",0
+5f18fd365f36077ba5229d1f,Chandrila,temperate,"plains, forests",0
+5f18fd365f36077ba5229d20,Sullust,superheated,"mountains, volcanoes, rocky deserts",0
+5f18fd365f36077ba5229d21,Toydaria,temperate,"swamps, lakes",0
+5f18fd365f36077ba5229d22,Malastare,"arid, temperate, tropical","swamps, deserts, jungles, mountains",0
+5f18fd365f36077ba5229d23,Dathomir,temperate,"forests, deserts, savannas",0
+5f18fd365f36077ba5229d24,Ryloth,"temperate, arid, subartic","mountains, valleys, deserts, tundra",0
+5f18fd365f36077ba5229d25,Aleen Minor,unknown,unknown,0
+5f18fd365f36077ba5229d26,Vulpter,"temperate, artic","urban, barren",0
+5f18fd365f36077ba5229d27,Troiken,unknown,"desert, tundra, rainforests, mountains",0
+5f18fd365f36077ba5229d28,Tund,unknown,"barren, ash",0
+5f18fd365f36077ba5229d29,Haruun Kal,temperate,"toxic cloudsea, plateaus, volcanoes",0
+5f18fd365f36077ba5229d2a,Cerea,temperate,verdant,0
+5f18fd365f36077ba5229d2b,Glee Anselm,"tropical, temperate","lakes, islands, swamps, seas",0
+5f18fd365f36077ba5229d2c,Iridonia,unknown,"rocky canyons, acid pools",0
+5f18fd365f36077ba5229d2d,Tholoth,unknown,unknown,0
+5f18fd365f36077ba5229d2e,Iktotch,"arid, rocky, windy",rocky,0
+5f18fd365f36077ba5229d2f,Quermia,unknown,unknown,0
+5f18fd365f36077ba5229d30,Dorin,temperate,unknown,0
+5f18fd365f36077ba5229d31,Champala,temperate,"oceans, rainforests, plateaus",0
+5f18fd365f36077ba5229d32,Mirial,unknown,deserts,0
+5f18fd365f36077ba5229d33,Serenno,unknown,"rainforests, rivers, mountains",0
+5f18fd365f36077ba5229d34,Concord Dawn,unknown,"jungles, forests, deserts",0
+5f18fd365f36077ba5229d35,Zolan,unknown,unknown,0
+5f18fd365f36077ba5229d36,Ojom,frigid,"oceans, glaciers",0
+5f18fd365f36077ba5229d37,Skako,temperate,"urban, vines",0
+5f18fd365f36077ba5229d38,Muunilinst,temperate,"plains, forests, hills, mountains",0
+5f18fd365f36077ba5229d39,Shili,temperate,"cities, savannahs, seas, plains",0
+5f18fd365f36077ba5229d3a,Kalee,"arid, temperate, tropical","rainforests, cliffs, canyons, seas",0
+5f18fd365f36077ba5229d3b,Umbara,unknown,unknown,0
+5f18fd365f36077ba5229d3c,Jakku,unknown,deserts,1
